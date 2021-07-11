@@ -1,0 +1,6 @@
+Todos os arquivos e instruções necessárias para o desenvolvimento do projeto
+devem ser ser armazenados nesta pasta, junto com sua descrição neste documento.
+
+Balsamiq Wireframes 4
+ - copiar os arquivos para a pasta da instalação, substituindo os mesmo.
+
